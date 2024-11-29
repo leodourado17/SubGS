@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sub</name>
+    </assembly>
+    <members>
+        <member name="M:Sub.Controllers.TarefaController.GetAll">
+            <summary>
+            Obtém todas as tarefas.
+            </summary>
+            <returns>Uma lista de todas as tarefas.</returns>
+        </member>
+        <member name="M:Sub.Controllers.TarefaController.GetById(System.String)">
+            <summary>
+            Obtém uma tarefa específica pelo ID.
+            </summary>
+            <param name="id">O ID da tarefa.</param>
+            <returns>A tarefa solicitada ou um erro se não encontrada.</returns>
+        </member>
+        <member name="M:Sub.Controllers.TarefaController.Create(Sub.Data.Models.Tarefa)">
+            <summary>
+            Cria uma nova tarefa.
+            </summary>
+            <param name="tarefa">O objeto tarefa a ser criada.</param>
+            <returns>O status da criação da tarefa.</returns>
+        </member>
+        <member name="M:Sub.Controllers.TarefaController.Update(System.String,Sub.Data.Models.Tarefa)">
+            <summary>
+            Atualiza uma tarefa existente.
+            </summary>
+            <param name="id">O ID da tarefa a ser atualizada.</param>
+            <param name="tarefa">Os dados da tarefa para atualização.</param>
+            <returns>O status da atualização da tarefa.</returns>
+        </member>
+        <member name="M:Sub.Controllers.TarefaController.Delete(System.String)">
+            <summary>
+            Exclui uma tarefa.
+            </summary>
+            <param name="id">O ID da tarefa a ser excluída.</param>
+            <returns>O status da exclusão da tarefa.</returns>
+        </member>
+    </members>
+</doc>
