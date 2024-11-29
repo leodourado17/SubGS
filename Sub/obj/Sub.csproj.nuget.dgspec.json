@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leodourado/Downloads/Sub/Sub/Sub.csproj": {}
+    "/Users/leodourado/Downloads/SubGS 3/Sub/Sub.csproj": {}
   },
   "projects": {
-    "/Users/leodourado/Downloads/Sub/Sub/Sub.csproj": {
+    "/Users/leodourado/Downloads/SubGS 3/Sub/Sub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leodourado/Downloads/Sub/Sub/Sub.csproj",
+        "projectUniqueName": "/Users/leodourado/Downloads/SubGS 3/Sub/Sub.csproj",
         "projectName": "Sub",
-        "projectPath": "/Users/leodourado/Downloads/Sub/Sub/Sub.csproj",
+        "projectPath": "/Users/leodourado/Downloads/SubGS 3/Sub/Sub.csproj",
         "packagesPath": "/Users/leodourado/.nuget/packages/",
-        "outputPath": "/Users/leodourado/Downloads/Sub/Sub/obj/",
+        "outputPath": "/Users/leodourado/Downloads/SubGS 3/Sub/obj/",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
@@ -59,10 +59,6 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
-            },
-            "Microsoft.ML": {
-              "target": "Package",
-              "version": "[4.0.0, )"
             },
             "MongoDB.Bson": {
               "target": "Package",
