@@ -8,21 +8,7 @@ Certifique-se de ter o .NET SDK instalado na máquina. Você pode baixá-lo aqui
 
 Passos para execução
 
-Clone o repositório:
-bash
-Copiar código
-git clone https://github.com/usuario/projeto-csharp.git
-cd projeto-csharp
-Restaure as dependências:
-bash
-Copiar código
-dotnet restore
-Execute o projeto:
-bash
-Copiar código
-dotnet run
-Pronto!
-O projeto estará rodando localmente.
+
 
 Funcionalidades
 Sistema de gerenciamento: Permite realizar operações básicas de cadastro e consulta.
